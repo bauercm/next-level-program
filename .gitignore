@@ -1,0 +1,9 @@
+# private material never goes in this repo
+logs/
+*.private.md
+.env
+.env.*
+.DS_Store
+.vscode/
+.idea/
+tmp/
